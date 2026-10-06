@@ -1,4 +1,4 @@
 # Ignor options
 doc/**/*.pdf
-
+*.a
 # Add your options here
