@@ -805,9 +805,6 @@ git --version
 
 **Python + pip + NumPy + Matplotlib + SciPy + Tkinter + VS Code + Python extension + Git.**
 
-### Не завантажуйте Python-пакети з випадкових сайтів
-
-NumPy, Matplotlib та SciPy не потрібно шукати на сторонніх сайтах.
 
 Використовуйте:
 
